@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "538055452325",
+    "project_id": "shopper-b188b",
+    "storage_bucket": "shopper-b188b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538055452325:android:12187fed914882c4748f4c",
+        "android_client_info": {
+          "package_name": "com.example.billing_app_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp1Q8aH5SiYlMnf23AQvLJOL9975cWSpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
